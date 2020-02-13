@@ -1,2 +1,2 @@
 # youtube_clone
- Youtube Clone using Nodejs
+ Youtube Clone following Nomad Academy Course
